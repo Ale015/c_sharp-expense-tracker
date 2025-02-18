@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMuARbp0XB0=",
+  "success": true,
+  "projectFilePath": "D:\\3.HD.Programação\\Projetos\\c_sharp\\c_sharp-expense-tracker\\ExpenseTracker\\ExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veadr\\.nuget\\packages\\system.io.pipelines\\9.0.2\\system.io.pipelines.9.0.2.nupkg.sha512",
+    "C:\\Users\\veadr\\.nuget\\packages\\system.text.encodings.web\\9.0.2\\system.text.encodings.web.9.0.2.nupkg.sha512",
+    "C:\\Users\\veadr\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
